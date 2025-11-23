@@ -1,0 +1,5 @@
+{
+  "name": "Copy of Chytrá Skóre Karta",
+  "description": "Digitální skóre karta pro discgolf a jiné hry. Obsahuje databázi českých hřišť, sledování bodů a AI komentátora.",
+  "requestFramePermissions": []
+}
